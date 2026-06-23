@@ -11,9 +11,9 @@
 </p>
 
 <p align="left">
-  - 🌱 I’m currently studying Systems Information at Estácio (EAD) <img align="center" alt="Estácio" src="https://img.shields.io/badge/Est%C3%A1cio-005691?style=for-the-badge&logo=education&logoColor=white" />
+  > 🌱 I’m currently studying Systems Information at Estácio (EAD) <img align="center" alt="Estácio" src="https://img.shields.io/badge/Est%C3%A1cio-005691?style=for-the-badge&logo=education&logoColor=white" />
   
-  - 100% 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
+  > 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
 </p>
 
 <!-- Dropdown Mais sobre mim -->
@@ -43,13 +43,13 @@
   <a href="https://www.reddit.com/user/liell_castro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="30" alt="reddit logo" />
   </a>
-  <a href="INSERIR_LINK_DO_SEU_INSTAGRAM_AQUI" target="_blank">
+  <a href="https://instagram.com/liell.castro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@outlook.com" target="_blank">
+  <a href="mailto:liell.castro@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="30" alt="outlook logo" />
   </a>
-  <a href="https://wa.me/SEU_NUMERO_WHATSAPP_AQUI" target="_blank">
+  <a href="https://wa.me/5524992340834" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" alt="whatsapp logo" />
   </a>
 </div>
@@ -102,7 +102,7 @@
 
 <!-- Projetos / Portfólio -->
 ## 📁 Portfolio & Projects:
-- [📝 Currículo Web ](SEU_LINK_DO_REPOSITORIO_AQUI) - Um projeto prático focado em acessibilidade estrutural, semântica HTML5, estilização CSS moderna, interações diversas e agradabilidade visual.
+- [📝 Currículo Web ](Web_CV) - Um projeto prático focado em acessibilidade estrutural, semântica HTML5, estilização CSS moderna, interações diversas e agradabilidade visual.
 
 <br />
 
