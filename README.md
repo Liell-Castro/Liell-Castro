@@ -102,7 +102,7 @@
 
 <!-- Projetos / Portfólio -->
 ## 📁 Portfolio & Projects:
-- [📝 Currículo Web ](Web_CV) - Um projeto prático focado em acessibilidade estrutural, semântica HTML5, estilização CSS moderna, interações diversas e agradabilidade visual.
+- [📝 Currículo Web ](https://github.com/Liell-Castro/Web-CV) - Um projeto prático focado em acessibilidade estrutural, semântica HTML5, estilização CSS moderna, interações diversas e agradabilidade visual.
 
 <br />
 
