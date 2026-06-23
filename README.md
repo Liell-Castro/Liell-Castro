@@ -7,13 +7,13 @@
 
 <!-- Apresentação -->
 <p align="center">
-  Hi, I'm <strong>Willian Gabriel</strong> (but you can call me <strong>Liell</strong>)! 👋 A passionate Systems Information student from Brazil.
+  Hi, I'm <strong>Willian Gabriel</strong> (but you can call me <strong>Liell</strong>)!  A passionate Systems Information (SI) student from Brazil.
 </p>
 
 <p align="left">
-  • 🌱I’m currently studying Systems Information at uniFOA
+  • 🌱 I’m currently studying SI at uniFOA
   
-  • 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
+  • 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community, until eventually becoming to a web application or full-stack developer or even working in cybersecurity.
 </p>
 
 <!-- Dropdown Mais sobre mim -->
@@ -23,7 +23,8 @@
   <ul>
     <li>💬 I am 19 years old, living in Rio de Janeiro, Brazil.</li>
     <li>🚀 I am highly focused on building modern web interfaces and mastering Front-End architecture.</li>
-    <li>⚡ Beyond coding, I'm passionate about hardware, technology infrastructure, keeping up a healthy fitness routine, and diving into good books!</li>
+    <li>⚡ Beyond coding, I'm passionate about hardware, technology infrastructure, modifying games,
+      keeping up a healthy fitness routine, and diving into good books!</li>
   </ul>
 </details>
 
@@ -73,11 +74,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cursor" height="40" alt="cursor logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="8" />
