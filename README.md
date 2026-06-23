@@ -11,9 +11,9 @@
 </p>
 
 <p align="left">
-  > 🌱 I’m currently studying Systems Information at uniFOA
+  • 🌱I’m currently studying Systems Information at uniFOA
   
-  > 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
+  • 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
 </p>
 
 <!-- Dropdown Mais sobre mim -->
