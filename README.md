@@ -4,7 +4,7 @@
 <!--                        HERO BANNER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:bd93f9&height=200&section=header&text=Liell&fontSize=80&fontColor=f8f8f2&fontAlignY=38&desc=Willian%20Gabriel%20%E2%80%A2%20Front-End%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091428,50:0052d4,100:4364f7&height=200&section=header&text=Liell&fontSize=80&fontColor=f8f8f2&fontAlignY=38&desc=Willian%20Gabriel%20%E2%80%A2%20Front-End%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -261,4 +261,4 @@ Um portfólio autoral que vai consolidar minha identidade como desenvolvedor: pr
 <!--                      FOOTER WAVE                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:6e40c9,100:0d1117&height=120&section=footer&text=Liell%20%C2%A9%202025&fontSize=16&fontColor=f8f8f280&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091428,50:0052d4,100:4364f7&height=120&section=footer&text=Liell%20%C2%A9%202025&fontSize=16&fontColor=f8f8f280&fontAlignY=70&animation=twinkling" width="100%"/>
