@@ -23,7 +23,7 @@
   <ul>
     <li>💬 I am 19 years old, living in Rio de Janeiro, Brazil.</li>
     <li>🚀 I am highly focused on building modern web interfaces and mastering Front-End architecture.</li>
-    <li>⚡ Beyond coding, I'm passionate about hardware, technology infrastructure, modifying games,
+    <li>⚡ Beyond coding, I'm passionate about hardware, technology infrastructure, scripting games,
       keeping up a healthy fitness routine, and diving into good books!</li>
   </ul>
 </details>
@@ -76,9 +76,11 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cursor" height="40" alt="cursor logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="8" />
