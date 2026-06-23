@@ -11,9 +11,9 @@
 <!-- Status badge -->
 <img src="https://img.shields.io/badge/STATUS-Aberto%20a%20oportunidades-50fa7b?style=for-the-badge&labelColor=282a36&color=50fa7b&logo=statuspage&logoColor=f8f8f2" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCO-Front--End%20%7C%20Full--Stack-bd93f9?style=for-the-badge&labelColor=282a36&color=bd93f9&logo=target&logoColor=f8f8f2" />
+<img src="https://img.shields.io/badge/FOCO-Front--End%20%7C%20Full--Stack-bd93f9?style=for-the-badge&labelColor=282a36&color=1e3a8a&logo=target&logoColor=f8f8f2" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Liell-Castro&style=for-the-badge&color=6e40c9&labelColor=282a36&label=VISITAS" />
+<img src="https://komarev.com/ghpvc/?username=Liell-Castro&style=for-the-badge&color=2563eb&labelColor=282a36&label=VISITAS" />
 
 </div>
 
@@ -173,7 +173,7 @@ Um portfólio autoral que vai consolidar minha identidade como desenvolvedor: pr
 
 **Stack:** `HTML5` · `CSS3` · `JavaScript`
 
-<img src="https://img.shields.io/badge/STATUS-Em%20desenvolvimento-ff79c6?style=for-the-badge&labelColor=282a36"/>
+<img src="https://img.shields.io/badge/STATUS-Em%20desenvolvimento-8ba4c9?style=for-the-badge&labelColor=282a36"/>
 
 [![Portfolio](https://img.shields.io/badge/→%20Em%20breve-44475a?style=for-the-badge&labelColor=282a36&logoColor=f8f8f2)](https://github.com/Liell-Castro)
 
