@@ -33,13 +33,13 @@
 <tr>
 <td width="55%" valign="top">
 
-**Oi, eu sou o Liell** — 19 anos, estudante de Sistemas de Informação no Rio de Janeiro e desenvolvedor front-end autodidata.
+**Olá, me chamo Willian Gabriel**, possuo 19 anos, sou estudante de Sistemas de Informação no Rio de Janeiro e desenvolvedor front-end autodidata.
 
-Construo interfaces como se cada pixel importasse. Obcecado com semântica HTML, acessibilidade real (não de checklist) e CSS que faz sentido quando você volta nele três meses depois.
+Construo interfaces como se cada pixel importasse. Obcecado com semântica HTML, acessibilidade real e CSS que faz sentido quando você volta nele três meses depois.
 
 Durante o dia estudo arquitetura de software. À noite, processo automações com n8n e fuço no Arch Linux enquanto debugo algo que "estava funcionando ontem".
 
-**O objetivo agora:** minha primeira oportunidade em Desenvolvimento Web — e depois disso, ir fundo em Full-Stack e Infraestrutura.
+**O objetivo agora:** conseguir minha primeira oportunidade em Desenvolvimento Web — e depois disso, ir fundo em Full-Stack e Infraestrutura.
 
 > *"Qualidade não é um ato, é um hábito."* — Aristóteles
 
