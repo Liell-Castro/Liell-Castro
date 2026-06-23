@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  > 🌱 I’m currently studying Systems Information at Estácio (EAD) <img align="center" alt="Estácio" src="https://img.shields.io/badge/Est%C3%A1cio-005691?style=for-the-badge&logo=education&logoColor=white" />
+  > 🌱 I’m currently studying Systems Information at uniFOA
   
   > 🔭 I am actively looking for my first job/internship opportunity in Web Development. My goal is to learn, collaborate, and grow within the tech community.
 </p>
