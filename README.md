@@ -243,13 +243,13 @@ Um portfólio autoral que vai consolidar minha identidade como desenvolvedor: pr
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=f8f8f2&labelColor=282a36)](https://instagram.com/SEU-INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=f8f8f2&labelColor=282a36)](https://instagram.com/liell.castro)
 &nbsp;
-[![Workana](https://img.shields.io/badge/Workana-00b04f?style=for-the-badge&logo=freelancer&logoColor=f8f8f2&labelColor=282a36)](https://workana.com/freelancer/SEU-WORKANA)
+[![Workana](https://img.shields.io/badge/Workana-00b04f?style=for-the-badge&logo=freelancer&logoColor=f8f8f2&labelColor=282a36)]([https://workana.com/freelancer/](https://www.workana.com/freelancer/dac7b7af31f9746442ad3b3fd55da135)
 &nbsp;
-[![Outlook](https://img.shields.io/badge/E--mail-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=f8f8f2&labelColor=282a36)](mailto:SEU-EMAIL@outlook.com)
+[![Outlook](https://img.shields.io/badge/E--mail-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=f8f8f2&labelColor=282a36)](mailto:liell.castro@outlook.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=f8f8f2&labelColor=282a36)](https://wa.me/55SEUNUMERO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=f8f8f2&labelColor=282a36)](https://wa.me/5524992340834)
 
 <br/><br/>
 
