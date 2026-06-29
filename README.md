@@ -92,7 +92,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark&perline=5" height="50"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,nodejs,vscode&theme=dark&perline=5" height="100%"/>
 
 </div>
 
