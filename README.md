@@ -82,7 +82,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" height="100%"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,nodejs,vscode&theme=dark&perline=5" height="100%"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,nodejs,vscode&theme=dark&perline=8" height="100%"/>
 
 </div>
 
@@ -102,7 +102,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=2" height="50"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Notion-f8f8f2?style=for-the-badge&logo=notion&logoColor=282a36" height="32"/>
 
@@ -128,7 +128,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=arch,windows,kali,ubuntu,mint&theme=dark&perline=6" height="100%"/>
+<img src="https://skillicons.dev/icons?i=arch,windows,ubuntu,mint&theme=dark&perline=6" height="100%"/>
 
 </div>
 
