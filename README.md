@@ -119,7 +119,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <img src="https://img.shields.io/badge/Claude%20AI-282a36?style=for-the-badge&logo=anthropic&logoColor=bd93f9" height="32"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282a36?style=for-the-badge&logo=postman&logoColor=ff6c37" height="32"/>
-<img src="https://img.shields.io/badge/insomnia-2a2139?style=for-the-badge&logo=insomnia&logoColor=a44aff" height="32"/>
+<img src="https://img.shields.io/badge/insomnia-282a36?style=for-the-badge&logo=insomnia&logoColor=a44aff" height="32"/>
 &nbsp;
 </div>
 
