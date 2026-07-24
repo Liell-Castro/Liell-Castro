@@ -48,17 +48,18 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 ```
 ┌──────────────────────────────┐
-│  👤  Willian Gabriel         │
-│  🏷️  Liell                   │
-│  📍  Rio de Janeiro, BR      │
-│  🎓  Sistemas de Informação  │
-│  🔭  Front-End Developer     │
-│                              │
-│  ⚡  Interesses:             │
-│      Interface & UX          │
-│      Automação com IA        │
-│      Infra & Cybersecurity   │
-│      Hardware & Linux        │
+│   Dados Pessoais:                 │
+│    Willian Gabriel                │
+│    Liell                          │
+│    Rio de Janeiro, BR             │
+│    Sistemas de Informação         │
+│    Front-End Developer            │
+│                                   │
+│    Interesses:                    │
+│      Interface & UX               │
+│      Automação com IA             │
+│      Infra & Cybersecurity        │
+│      Hardware & Linux             │
 └──────────────────────────────┘
 ```
 
@@ -149,7 +150,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <td width="50%" valign="top">
 
-### 📄 Web CV
+### Web CV
 
 > *Currículo web completo, do zero ao detalhe.*
 
@@ -165,7 +166,7 @@ Um projeto inteiro dedicado a mostrar que HTML5 e CSS puro são ferramentas sér
 
 <td width="50%" valign="top">
 
-### 🌐 Portfólio Web
+### Portfólio Web
 
 > *Em construção — chegando em breve.*
 
