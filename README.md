@@ -82,7 +82,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,ruby,api&theme=dark&perline=8" height="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql&theme=dark&perline=8" height="100%"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <img src="https://img.shields.io/badge/Claude%20AI-282a36?style=for-the-badge&logo=anthropic&logoColor=bd93f9" height="32"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282a36?style=for-the-badge&logo=postman&logoColor=ff6c37" height="32"/>
-
+https://img.shields.io/badge/Insomnia-282a36?style=for-the-badge&logo=postman&logoColor=ff6c37
 </div>
 
 <br/>
