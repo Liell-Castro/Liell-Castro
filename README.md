@@ -82,7 +82,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" height="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql&theme=dark&perline=8" height="100%"/>
 
 </div>
 
