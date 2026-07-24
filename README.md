@@ -1,4 +1,4 @@
-<div align="center">
+1<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HERO BANNER                            -->
@@ -129,7 +129,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=arch,windows,ubuntu,mint&theme=dark&perline=6" height="100%"/>
+<img src="https://skillicons.dev/icons?i=arch,windows,kali,ubuntu,mint&theme=dark&perline=6" height="100%"/>
 
 </div>
 
