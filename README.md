@@ -96,6 +96,17 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 </div>
 
+
+<br/>
+
+**Frameworks**
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=Angular, React,Vue&theme=dark&perline=8" height="100%"/>
+
+</div>
+
 <br/>
 
 **Design & Produtividade**
