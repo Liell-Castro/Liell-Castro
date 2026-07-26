@@ -48,17 +48,17 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 ```
 ┌──────────────────────────────┐
-│    Dados Pessoais:                │
-│      Willian Gabriel / Liell      │
-│      Rio de Janeiro, BR           │
-│      Sistemas de Informação       │
-│      Front-End Developer          │
-│                                   │
-│    Interesses:                    │
-│      Interface & UX               │
-│      Automação com IA             │
-│      Infra & Cybersecurity        │
-│      Hardware & Linux             │
+│    Dados Pessoais:           │
+│      Willian Gabriel / Liell │
+│      Rio de Janeiro, BR      │
+│      Sistemas de Informação  │
+│      Front-End Developer     │
+│                              │
+│    Interesses:               │
+│      Interface & UX          │
+│      Automação com IA        │
+│      Infra & Cybersecurity   │
+│      Hardware & Linux        │
 └──────────────────────────────┘
 ```
 
@@ -232,7 +232,7 @@ Um portfólio autoral que vai consolidar minha identidade como desenvolvedor: pr
 
 <br/>
 
-*Bora trocar ideia sobre projetos, oportunidades ou só tech em geral?*
+*Gostaria de conhecer mais programadores iniciantes, abaixo estarei anexando minhas redes sociais*
 
 <br/>
 
