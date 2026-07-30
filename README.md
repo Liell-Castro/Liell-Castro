@@ -103,7 +103,6 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <div>
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=2" height="50"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Notion-f8f8f2?style=for-the-badge&logo=notion&logoColor=282a36" height="32"/>
 
 </div>
@@ -115,12 +114,9 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <div>
 
 <img src="https://img.shields.io/badge/n8n-282a36?style=for-the-badge&logo=n8n&logoColor=ea4b71" height="32"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Claude%20AI-282a36?style=for-the-badge&logo=anthropic&logoColor=bd93f9" height="32"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Postman-282a36?style=for-the-badge&logo=postman&logoColor=ff6c37" height="32"/>
 <img src="https://img.shields.io/badge/insomnia-282a36?style=for-the-badge&logo=insomnia&logoColor=a44aff" height="32"/>
-&nbsp;
 </div>
 
 <br/>
