@@ -69,6 +69,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <br/>
 
 ---
+```⚠️​ As informações abaixo são, no momento, apenas o que eu pretendo ser até o ano que vem.```
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      STACK & FERRAMENTAS                      -->
