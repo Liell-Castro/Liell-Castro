@@ -149,7 +149,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 ### Web CV
 
-> *Currículo web completo, do zero ao detalhe.*
+> *Currículo web completo, da estrutura básica ao meu primeiro site.*
 
 Um projeto inteiro dedicado a mostrar que HTML5 e CSS puro são ferramentas sérias. Construído com semântica rigorosa, sistema de design tokens, arquitetura CSS Grid, temas claro/escuro/sistema automático e um painel de acessibilidade com modos de visão, contraste, fonte OpenDyslexic, guia de leitura e suporte a `prefers-reduced-motion`.
 
