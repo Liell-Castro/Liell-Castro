@@ -132,6 +132,8 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 
 <br/>
 
+```Aqui encontra-se o fim das metas pessoais⚠️```
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
