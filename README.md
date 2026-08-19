@@ -69,7 +69,7 @@ Durante o dia estudo arquitetura de software. À noite, processo automações co
 <br/>
 
 ---
-```⚠️​ As informações abaixo são, no momento, apenas o que eu pretendo ser até o ano que vem.```
+```⚠️​ As informações abaixo são, até o presente momento, apenas metas pessoais.```
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      STACK & FERRAMENTAS                      -->
@@ -229,7 +229,7 @@ Um portfólio autoral que vai consolidar minha identidade como desenvolvedor: pr
 
 <br/>
 
-*Gostaria de conhecer mais programadores iniciantes, abaixo estarei anexando minhas redes sociais*
+*Gostaria de me conectar cada vez mais com outros iniciantes, então, para fins sociais, estarei anexando minhas redes sociais logo abaixo*
 
 <br/>
 
